@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Silverlene! <br/></h1>
 
-<!--
-**silvicodes17/silvicodes17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Computer Sciene Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>*insert project name</b>
+  - [link to said project](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][instagram]
+
+
+[email]: silverleneu@gmail.com
+[linkedin]: https://linkedin.com/in/silverleneu
